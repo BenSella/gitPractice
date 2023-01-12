@@ -1,0 +1,37 @@
+[33mcommit 6115af08b8ff107372b529a1480a55a30d045b33[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: BenSella <34219113+BenSella@users.noreply.github.com>
+Date:   Thu Jan 12 13:43:12 2023 +0200
+
+    Revert "update hello.txt with new product details"
+    
+    This reverts commit 2405cb81925c2e4e33be3905b689b84220eef36f.
+    
+    cd..
+    dir
+    
+    :wq
+    :wq ".git/COMIT_EDITMSG"
+
+[33mcommit 2405cb81925c2e4e33be3905b689b84220eef36f[m
+Author: BenSella <34219113+BenSella@users.noreply.github.com>
+Date:   Thu Jan 12 13:39:22 2023 +0200
+
+    update hello.txt with new product details
+
+[33mcommit 86150296273322890e13922bfe3d1798692fd8fd[m
+Author: BenSella <34219113+BenSella@users.noreply.github.com>
+Date:   Thu Jan 12 12:37:39 2023 +0200
+
+    add code lines to all files attached
+
+[33mcommit e45264a4de020c3dd9d92105b7c979e5f4bfe9b3[m
+Author: BenSella <34219113+BenSella@users.noreply.github.com>
+Date:   Thu Jan 12 11:03:46 2023 +0200
+
+    second commit
+
+[33mcommit f0906af1d146c0bfaa5120d9fe00d47743d2c6ee[m
+Author: BenSella <34219113+BenSella@users.noreply.github.com>
+Date:   Thu Jan 12 10:56:56 2023 +0200
+
+    first commit
