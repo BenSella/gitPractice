@@ -1,3 +1,5 @@
-print("second page")
-var 6.6
-var maxSeconds
+print("Hello there")
+x = 1
+var = "maxSeconds"
+var = 4
+var = "https/"
