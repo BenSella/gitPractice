@@ -1,5 +1,3 @@
 hello there!
 this is my Text file
 an other file
-word word word wordword word word wordword word word word
-"we are printing our new liune of products"
